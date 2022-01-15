@@ -1,15 +1,15 @@
-header{
+header {
     background-color: var(--color-primary);
     height: 60px;
     display: flex;
     align-items: center;
 }
 
-.dsmovie-nav-content{
+.dsmovie-nav-content {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    color: #fff;
+    color: #FFF;
 }
 
 .dsmovie-nav-content h1 {
@@ -18,7 +18,7 @@ header{
     font-size: 24px;
 }
 
-.dsmovie-contact-container{
+.dsmovie-contact-container {
     display: flex;
     align-items: center;
 }
@@ -26,4 +26,5 @@ header{
 .dsmovie-contact-link {
     margin: 0 0 0 10px;
     font-size: 12px;
+
 }
